@@ -32,8 +32,8 @@ Prosty projekt aplikacji napisany w pythonie. Pozwala przeliczanie kwot pomiędz
     ```
     python aplikacja_kursy.py
     ```
-Po uruchomieniu aplikacja otworzy okno, w którym możesz:
--Wybrać walutę źródłową i docelową z listy
--Wpisać kwotę do przeliczenia
--Kliknąć przycisk `Oblicz`, aby zobaczyć wynik w wybranej walucie
--Kliknąć przycisk `Zakończ`, aby zamknąć aplikację
+## Po uruchomieniu aplikacja otworzy okno, w którym możesz:
+- Wybrać walutę źródłową i docelową z listy
+- Wpisać kwotę do przeliczenia
+- Kliknąć przycisk `Oblicz`, aby zobaczyć wynik w wybranej walucie
+- Kliknąć przycisk `Zakończ`, aby zamknąć aplikację
