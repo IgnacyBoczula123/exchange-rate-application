@@ -28,7 +28,7 @@ Prosty projekt aplikacji napisany w pythonie. Pozwala przeliczanie kwot pomiędz
     pip install -r requirements.txt
     ```
 
-3. Uruchom grę
+3. Uruchom
     ```
     python aplikacja_kursy.py
     ```
